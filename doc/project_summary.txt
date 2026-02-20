@@ -1,0 +1,4 @@
+Loan Default Risk Analysis Project
+
+This project analyzes loan default behavior using machine learning models
+and visualizes insights through a Power BI dashboard.
