@@ -150,16 +150,6 @@ http://localhost:8501
 
 ---
 
-## 🎯 Future Improvements
-
-- Hyperparameter tuning
-- SHAP explainability integration
-- CI/CD automation
-- Cloud deployment
-- Model monitoring system
-
----
-
 ## 👩‍💻 Author
 
 Honey Upadhyay  
